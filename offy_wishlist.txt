@@ -1,0 +1,14 @@
+title: Offy's Destiny 2 Wishlist
+description: Don't you dare judge me. That's my girlfriend's job
+
+//Cartesian Coordinate (Offy's PvE Wishlist)
+//Liquid Coils + Lead From Gold + Vorpal Weapon
+//notes:Excellent option for Boss DPS or for clearing those pesky majors. Recommended MW: Stability, Range, Reload Speed
+dimwishlist:item=1506719573&perks=1687452232,1556840489,1546637391
+
+//Glacioclasm (Offy's PvE Wishlist)
+//Subsistence + Reservoir Burst
+//Slideshot + Reservoir Burst
+//notes:Reservoir Burst? With an active reload perk? *Yes please.* This is the perfect situation for Subsistence. (Sorry, Loaded Question.)
+dimwishlist:item=1030895163&perks=1687452232,1820235745,1427256713
+dimwishlist:item=1030895163&perks=1687452232,3161816588,1427256713
